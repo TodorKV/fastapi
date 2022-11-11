@@ -17,5 +17,5 @@ websockets==10.3
 pickle-mixin
 pandas
 numpy
-ntkl
+nltk
 scikit-learn
